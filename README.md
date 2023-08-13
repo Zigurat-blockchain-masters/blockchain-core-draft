@@ -54,3 +54,8 @@ Manages private and public keys, creates and signs transactions, and interacts w
 ## Future Development
 
 The next phase of this project involves re-implementing and extending this solution using Javascript/Typescript. More details will be added as the project progresses.
+
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0. See the [LICENSE](./LICENSE) file for details, or you can visit [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) for more information.
